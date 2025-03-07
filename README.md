@@ -1,7 +1,7 @@
-# Basic AF IP Camera Recording
+# The stupidest possible manifestation of a DVR
 
 ## Overview
-Dead-simple IP camera recording with FFmpeg. Chunks the video, deletes old files. No bloat.
+IP camera recording with FFmpeg. Chunks the video, deletes old files. No bloat.
 
 ## BASH Usage 
 
